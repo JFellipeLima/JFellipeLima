@@ -1,16 +1,20 @@
-## Hi there 👋
+# Fellipe Lima
+- kima
 
-<!--
-**JFellipeLima/JFellipeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ADS Student
+Estudante focado em consolidar fundamentos de programação com Python e Node.js através de projetos práticos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Contato:
+[EMAIL](mailto:fellipe.ferreira.gb@gmail.com)

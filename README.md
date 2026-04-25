@@ -1,5 +1,4 @@
 # Fellipe Lima
-- kima
 ### Desenvolvedor em formação
 Focado em consolidar fundamentos de programação com Python e Node.js através de projetos práticos.
 ---

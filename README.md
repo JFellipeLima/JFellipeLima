@@ -13,6 +13,5 @@ Focado em consolidar fundamentos de programação com Python e Node.js através 
 
 ### 📚 Estudando atualmente
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>

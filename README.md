@@ -1,5 +1,5 @@
 # Fellipe Lima
-### Desenvolvedor em formação
+### Desenvolvedor back-end
 Focado em consolidar fundamentos de programação com Python e Node.js através de projetos práticos.
 ---
 ### 🛠 Tech Stack
